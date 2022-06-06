@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="SabongLive.Admin" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Bootstrap 3.3.7 -->
+  <link rel="stylesheet" href="../../vendors/bootstrap/dist/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="../../vendors/font-awesome/css/font-awesome.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="../../vendors/Ionicons/css/ionicons.min.css">
+  <!-- bootstrap slider -->
+  <link rel="stylesheet" href="../../plugins/bootstrap-slider/slider.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="../../dist/css/AdminLTE.min.css">
+  <!-- AdminLTE Skins. Choose a skin from the css/skins
+       folder instead of downloading all of them to reduce the load. -->
+  <link rel="stylesheet" href="../../dist/css/skins/_all-skins.min.css">
+
+    
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Google Font -->
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+</head>
+<body class="hold-transition"  style="background-color:#19181A;">
+<div class="wrapper">
+
+    
+            <form runat="server">
+
+
+                <asp:ContentPlaceHolder id="content" runat="server">
+                </asp:ContentPlaceHolder>
+          
+
+     </form>
+</div>
+ 
+<!-- ./wrapper -->
+
+<!-- jQuery 3 -->
+<script src="../../vendors/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.3.7 -->
+<script src="../../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- FastClick -->
+<script src="../../vendors/fastclick/lib/fastclick.js"></script>
+<!-- AdminLTE App -->
+<script src="../../dist/js/adminlte.min.js"></script>
+<!-- ChartJS -->
+<script src="../../vendors/chart.js/Chart.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="../../plugins/bootstrap-slider/bootstrap-slider.js"></script>
+    
+<script>
+  $(function () {
+    /* BOOTSTRAP SLIDER */
+    $('.slider').slider()
+  })
+
+</script>
+    
+    <asp:ContentPlaceHolder id="footer" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="printslips" targetNamespace="http://tempuri.org/printslips.xsd" xmlns:mstns="http://tempuri.org/printslips.xsd" xmlns="http://tempuri.org/printslips.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="printslips" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="printslips" msprop:Generator_UserDSName="printslips">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Fightnum" msprop:Generator_ColumnVarNameInTable="columnFightnum" msprop:Generator_ColumnPropNameInRow="Fightnum" msprop:Generator_ColumnPropNameInTable="FightnumColumn" msprop:Generator_UserColumnName="Fightnum" type="xs:string" minOccurs="0" />
+              <xs:element name="Datetime" msprop:Generator_ColumnVarNameInTable="columnDatetime" msprop:Generator_ColumnPropNameInRow="Datetime" msprop:Generator_ColumnPropNameInTable="DatetimeColumn" msprop:Generator_UserColumnName="Datetime" type="xs:string" minOccurs="0" />
+              <xs:element name="Betnum" msprop:Generator_ColumnVarNameInTable="columnBetnum" msprop:Generator_ColumnPropNameInRow="Betnum" msprop:Generator_ColumnPropNameInTable="BetnumColumn" msprop:Generator_UserColumnName="Betnum" type="xs:string" minOccurs="0" />
+              <xs:element name="Betamount" msprop:Generator_ColumnVarNameInTable="columnBetamount" msprop:Generator_ColumnPropNameInRow="Betamount" msprop:Generator_ColumnPropNameInTable="BetamountColumn" msprop:Generator_UserColumnName="Betamount" type="xs:string" minOccurs="0" />
+              <xs:element name="Statusside" msprop:Generator_ColumnVarNameInTable="columnStatusside" msprop:Generator_ColumnPropNameInRow="Statusside" msprop:Generator_ColumnPropNameInTable="StatussideColumn" msprop:Generator_UserColumnName="Statusside" type="xs:string" minOccurs="0" />
+              <xs:element name="AgentName" msprop:Generator_ColumnVarNameInTable="columnAgentName" msprop:Generator_ColumnPropNameInRow="AgentName" msprop:Generator_ColumnPropNameInTable="AgentNameColumn" msprop:Generator_UserColumnName="AgentName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

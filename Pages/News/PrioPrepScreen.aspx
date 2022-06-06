@@ -1,0 +1,210 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="PrioPrepScreen.aspx.cs" Inherits="SabongLive.Pages.PrioPrepScreen" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <style>
+        .x_panel {
+            width: 100%;
+            padding: 0 10px;
+            display: inline-block;
+            background: #fff;
+            border: 1px solid #E6E9ED;
+            border-top-color: rgb(230, 233, 237);
+            border-top-style: solid;
+            border-top-width: 1px;
+            -webkit-column-break-inside: avoid;
+            -moz-column-break-inside: avoid;
+            column-break-inside: avoid;
+            opacity: 1;
+            transition: all .2s ease;
+        }
+
+        #divred {
+            background: transparent;
+            cursor: pointer;
+        }
+
+            #divred:hover, #divred:focus, #divred:focus-within {
+                background: rgba(255,255,255, 0.5);
+            }
+
+
+
+        #divblue {
+            background: transparent;
+            cursor: pointer;
+        }
+
+            #divblue:hover, #divblue:focus, #divblue:focus-within {
+                background: rgba(255,255,255, 0.5);
+            }
+
+        .marquee {
+            height: 50px;
+            overflow: hidden;
+            position: relative;
+            background: #dd4b39;
+            color: #333;
+        }
+
+            .marquee p {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                line-height: 50px;
+                text-align: center;
+                -moz-transform: translateX(100%);
+                -webkit-transform: translateX(100%);
+                transform: translateX(100%);
+                -moz-animation: scroll-left 2s linear infinite;
+                -webkit-animation: scroll-left 2s linear infinite;
+                animation: scroll-left 10s linear infinite;
+            }
+
+        @-moz-keyframes scroll-left {
+            0% {
+                -moz-transform: translateX(100%);
+            }
+
+            100% {
+                -moz-transform: translateX(-100%);
+            }
+        }
+
+        @-webkit-keyframes scroll-left {
+            0% {
+                -webkit-transform: translateX(100%);
+            }
+
+            100% {
+                -webkit-transform: translateX(-100%);
+            }
+        }
+
+        @keyframes scroll-left {
+            0% {
+                -moz-transform: translateX(100%);
+                -webkit-transform: translateX(100%);
+                transform: translateX(100%);
+            }
+
+            100% {
+                -moz-transform: translateX(-100%);
+                -webkit-transform: translateX(-100%);
+                transform: translateX(-100%);
+            }
+        }
+
+        .rowclass {
+        }
+        </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="content" runat="server">
+    <div class="row" >
+        <div class="col-md-12" style="border:1px solid; color:grey;">
+            <br />
+             <div class="row rowclass">
+                <div class="col-md-12" style="text-align:center; color:white;">
+                    <h2><strong>READY</strong></h2>
+                </div>
+            </div> 
+             <div class="row rowclass">
+                <div class="col-md-12" style="text-align:center; background:#2b2d42;">
+                    <h1 id="txtready" style="font-size:50px; font-family:Impact; color:silver;"></h1>
+                </div>
+            </div>
+            <div class="row rowclass">
+                <div class="col-md-12" style="text-align:center; color:white;">
+                    <h2><strong>LIMBER</strong></h2>
+                </div>
+            </div> 
+             <div class="row rowclass">
+                <div class="col-md-12" style="text-align:center; background:#2b2d42;">
+                    <h1 id="txtlimber" style="font-size:50px; font-family:Impact; color:silver;"></h1>
+                </div>
+            </div>  <div class="row rowclass" style="text-align:center; color:white;">
+                <div class="col-md-12">
+                    <h2><strong>HEELING</strong></h2>
+                </div>
+            </div> 
+             <div class="row rowclass">
+                <div class="col-md-12" style="text-align:center; background:#2b2d42;">
+                    <h1 id="txtheeling" style="font-size:50px; font-family:Impact; color:silver;"></h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="footer" runat="server">
+    <script src="../../Scripts/jquery-3.4.1.min.js"></script>
+    <script src="../../Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script src="../../Scripts/date.format.js"></script>
+    <!--Reference the autogenerated SignalR hub script. -->
+    <script src="signalr/hubs"></script>
+        <script type="text/javascript">
+            $(function () {
+                // Declare a proxy to reference the hub.
+                var chatHub = $.connection.chatHub;
+                registerClientMethods(chatHub);
+                // Start Hub
+                $.connection.hub.start().done(function () {
+                    registerEvents(chatHub);
+                });
+            });
+
+            function registerEvents(chatHub) {
+                onreadyall();
+              
+            }
+            function registerClientMethods(chatHub) {
+                // Calls when user successfully logged in
+                chatHub.client.onConnected = function (id, userName, Announce, messages, GoLive, director) {
+
+
+                    console.log(Announce.Status);
+                    console.log('connected');
+                }
+
+
+                chatHub.client.onRemoveConnection = function (id) {
+                    connectioRemover(id);
+
+                }
+                chatHub.client.onUserDisconnected = function (id, userName) {
+                    setTimeout(function () {
+                        $.connection.hub.start();
+                    }, 5000);
+                }
+
+
+                chatHub.client.onpost = function () {
+                    onreadyall();
+                }
+            }
+            function onreadyall() {
+                var value = "";
+                $.ajax({
+                    type: "Post",
+                    url: 'Pages/News/PrioPrepScreen.aspx/checknumbers',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify({ id: value }),
+                    dataType: "json",
+                    success: function (data) {
+
+                        if (data.d.toString() != "") {
+                            var split1 = data.d.toString().split("~");
+
+                            $("#txtready").html(split1[0]);
+                            $("#txtlimber").html(split1[1]);
+                            $("#txtheeling").html(split1[2]);
+                                
+                        }
+                    },
+                    error: function (result) {
+                        alert(result.responseText);
+                    }
+                });
+                    
+            }
+        </script>
+</asp:Content>

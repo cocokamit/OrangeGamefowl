@@ -1,0 +1,210 @@
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\SabongLive.dll.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\SabongLive.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\SabongLive.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\csc.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\csc.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\csc.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\csi.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\csi.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.AppContext.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\vbc.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\vbc.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\vbc.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Antlr3.Runtime.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Newtonsoft.Json.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\System.Web.Optimization.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\WebGrease.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\System.Web.Optimization.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Newtonsoft.Json.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Antlr3.Runtime.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\obj\Debug\SabongLive.csprojAssemblyReference.cache
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\obj\Debug\SabongLive.csproj.CoreCompileInputs.cache
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\obj\Debug\SabongLive.csproj.CopyComplete
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\obj\Debug\SabongLive.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\obj\Debug\SabongLive.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SabongLive.dll.config
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SabongLive.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SabongLive.pdb
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\csc.exe
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\csc.exe.config
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\csc.rsp
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\csi.exe
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\csi.rsp
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.AppContext.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\vbc.exe
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\vbc.exe.config
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\vbc.rsp
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\VBCSCompiler.exe
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Antlr3.Runtime.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Newtonsoft.Json.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\System.Web.Optimization.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\WebGrease.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\System.Web.Optimization.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Newtonsoft.Json.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Antlr3.Runtime.pdb
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\SabongLive.csprojAssemblyReference.cache
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\SabongLive.csproj.CopyComplete
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\SabongLive.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\SabongLive.pdb
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Security.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Owin.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Security.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\SabongLive.dll.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\SabongLive.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\SabongLive.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\csc.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\csc.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\csc.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\csi.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\csi.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.AppContext.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\vbc.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\vbc.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\vbc.rsp
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Antlr3.Runtime.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.Security.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Newtonsoft.Json.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Owin.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\System.Web.Optimization.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\WebGrease.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.Owin.Security.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\System.Web.Optimization.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Newtonsoft.Json.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Antlr3.Runtime.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\obj\Debug\SabongLive.csprojAssemblyReference.cache
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\obj\Debug\SabongLive.csproj.CoreCompileInputs.cache
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\obj\Debug\SabongLive.csproj.CopyComplete
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\obj\Debug\SabongLive.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\ManokLiveV1\SabongLive\obj\Debug\SabongLive.pdb
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.Security.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Owin.dll
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gamer's Garden.DESKTOP-NNM2CHF\Desktop\Owner\SabongLive\bin\Microsoft.Owin.Security.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\SabongLive.csproj.CoreCompileInputs.cache
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\RdlCompile.cache
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\obj\Debug\RdlCompile.compiled
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.SqlServer.Types.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\ClosedXML.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\DocumentFormat.OpenXml.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\ExcelNumberFormat.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\ClosedXML.pdb
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\ClosedXML.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\DocumentFormat.OpenXml.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\ExcelNumberFormat.xml
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Cors.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\System.Web.Cors.dll
+C:\Users\cokcok\Desktop\Projects\Manokerz\SabongLive\bin\Microsoft.Owin.Cors.xml
